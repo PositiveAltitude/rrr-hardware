@@ -1,6 +1,6 @@
 # RRR
-This repo contains design files for experimental "RRR" flight computer for Trust Vector Control model rockets. The main idea is to use an ESP32-C3 microcontroller (RISC V) and Rust programming language. So the name is Risc Rust Rocket.
-Please keep in mind that this is a prototype an proof of conceps, so expect issues and design mistakes. All parts was sources from LCSC, so you can find LCSC part numbers populated for every component.
+This repo contains design files for experimental "RRR" flight computer for Thrust Vector Control model rockets. The main idea is to use an ESP32-C3 microcontroller (RISC V) and Rust programming language. So the name is Risc Rust Rocket.
+Please keep in mind that this is a prototype and a proof of concept, so expect issues and design mistakes. All parts were sourced from LCSC, so you can find LCSC part numbers populated for every component.
 
 ![](front_side.png)
 ![](back_side.png)
